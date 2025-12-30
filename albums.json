@@ -1,0 +1,366 @@
+[
+    {
+        "folder": "daily",
+        "title": "Your Daily Mix",
+        "description": "Listen music with your experience.",
+        "cover": "img/daily.jpg",
+        "songs": [
+            {
+                "name": "Dreams",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/03/15/audio_9b9c6b3f0f.mp3"
+            },
+            {
+                "name": "Morning Light",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/06/07/audio_1f59e1e7c8.mp3"
+            },
+            {
+                "name": "Soft Piano",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/01/18/audio_d1f4e8b9ab.mp3"
+            },
+            {
+                "name": "Relax Flow",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2021/11/25/audio_2b4a4efb15.mp3"
+            },
+            {
+                "name": "Peace",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/10/03/audio_ae9f5c64c4.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "hot",
+        "title": "Hot Hits 2025",
+        "description": "Top trending hits right now.",
+        "cover": "img/hot.jpg",
+        "songs": [
+            {
+                "name": "Energy Beat",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-dance-with-me-3.mp3"
+            },
+            {
+                "name": "Club Lights",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-tech-house-vibes-130.mp3"
+            },
+            {
+                "name": "Bounce",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-hip-hop-02.mp3"
+            },
+            {
+                "name": "Bass Drop",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-driving-ambition-32.mp3"
+            },
+            {
+                "name": "Party Mode",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-electronic-rock-15.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "dance",
+        "title": "Dance Music",
+        "description": "Party-ready dance tracks.",
+        "cover": "img/dance.jpg",
+        "songs": [
+            {
+                "name": "Night Beat",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-nightlife-6.mp3"
+            },
+            {
+                "name": "Fast Lane",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-fast-hip-hop-6.mp3"
+            },
+            {
+                "name": "Electric",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-future-bass-5.mp3"
+            },
+            {
+                "name": "Move On",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-energetic-pop-8.mp3"
+            },
+            {
+                "name": "Glow",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-driving-electronic-12.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "lofi",
+        "title": "Lofi Music",
+        "description": "Relax & focus with lofi beats.",
+        "cover": "img/lofi.jpg",
+        "songs": [
+            {
+                "name": "Late Night",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/02/23/audio_3a9e8c3c64.mp3"
+            },
+            {
+                "name": "Coffee Break",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2021/12/20/audio_5b1e4c33b4.mp3"
+            },
+            {
+                "name": "Chillhop",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/08/02/audio_9c4b78d8c3.mp3"
+            },
+            {
+                "name": "Soft Rain",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/04/11/audio_5c9f3e6c44.mp3"
+            },
+            {
+                "name": "Quiet Room",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/11/12/audio_38e4a7f29c.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "focus",
+        "title": "Focus Mood",
+        "description": "Music for deep focus.",
+        "cover": "img/focus.jpg",
+        "songs": [
+            {
+                "name": "Deep Work",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/05/19/audio_90b1d76db5.mp3"
+            },
+            {
+                "name": "Minimal Piano",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/07/12/audio_4d7c90c6a8.mp3"
+            },
+            {
+                "name": "Flow State",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2021/10/25/audio_62c9a5d0c4.mp3"
+            },
+            {
+                "name": "No Distraction",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/09/03/audio_58c3f4a9c1.mp3"
+            },
+            {
+                "name": "Study Calm",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/12/01/audio_f9a3b87e12.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "sleep",
+        "title": "Sweet Dreams",
+        "description": "Sleep peacefully.",
+        "cover": "img/sleep.jpg",
+        "songs": [
+            {
+                "name": "Sleep Piano",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/01/04/audio_11b0f4a8c7.mp3"
+            },
+            {
+                "name": "Night Calm",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/03/08/audio_c4f7d8b921.mp3"
+            },
+            {
+                "name": "Moonlight",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/06/30/audio_b7a8c49a31.mp3"
+            },
+            {
+                "name": "Dreamscape",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/08/28/audio_8f3c5a91f4.mp3"
+            },
+            {
+                "name": "Silent Night",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/10/14/audio_4e7b91dca6.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "happy",
+        "title": "Happy Vibes",
+        "description": "Bright, sunny, catchy tunes.",
+        "cover": "img/happy.jpg",
+        "songs": [
+            {
+                "name": "Sunny Day",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/03/22/audio_43c7c3a8a5.mp3"
+            },
+            {
+                "name": "Good Mood",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/07/14/audio_4f1d8a9e6c.mp3"
+            },
+            {
+                "name": "Smile Beat",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-happy-pop-16.mp3"
+            },
+            {
+                "name": "Positive Flow",
+                "artist": "Mixkit",
+                "url": "https://assets.mixkit.co/music/preview/mixkit-summer-fun-13.mp3"
+            },
+            {
+                "name": "Bright Sky",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/10/10/audio_4c9b7d2e51.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "old",
+        "title": "Old is Gold",
+        "description": "Classic peaceful instrumentals.",
+        "cover": "img/old.jpg",
+        "songs": [
+            {
+                "name": "Classic Piano",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2021/11/02/audio_8a94c4a7b3.mp3"
+            },
+            {
+                "name": "Golden Strings",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/02/02/audio_4b71d8c21a.mp3"
+            },
+            {
+                "name": "Vintage Mood",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/06/01/audio_4a18b29b9c.mp3"
+            },
+            {
+                "name": "Old Memories",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/08/21/audio_3f81a6c97d.mp3"
+            },
+            {
+                "name": "Timeless",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/12/05/audio_87e4d12f5b.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "devotional",
+        "title": "Devotional Music",
+        "description": "Spiritual & peaceful vibes.",
+        "cover": "img/devotional.jpg",
+        "songs": [
+            {
+                "name": "Temple Bells",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2021/09/01/audio_9b48d8a23a.mp3"
+            },
+            {
+                "name": "Meditation Flute",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/01/30/audio_1d9e7b32c1.mp3"
+            },
+            {
+                "name": "Inner Peace",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/04/17/audio_7c1e49d38a.mp3"
+            },
+            {
+                "name": "Mantra Calm",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/07/27/audio_0c4e7d98a4.mp3"
+            },
+            {
+                "name": "Spiritual Flow",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/11/21/audio_5b8d7c91e3.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "relax",
+        "title": "Mind Relaxing",
+        "description": "Relax your mind instantly.",
+        "cover": "img/relax.jpg",
+        "songs": [
+            {
+                "name": "Calm Breeze",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/05/02/audio_5a8c9e21b7.mp3"
+            },
+            {
+                "name": "Soft Waves",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/06/20/audio_3b7c91e5f4.mp3"
+            },
+            {
+                "name": "Mind Ease",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/08/15/audio_4e9a71b2d5.mp3"
+            },
+            {
+                "name": "Silent Air",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/10/02/audio_6d9c8b3f21.mp3"
+            },
+            {
+                "name": "Peaceful Mood",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/12/09/audio_9b7e5c21a4.mp3"
+            }
+        ]
+    },
+    {
+        "folder": "study",
+        "title": "Focus Mood",
+        "description": "Deep focus & productivity.",
+        "cover": "img/focus.jpg",
+        "songs": [
+            {
+                "name": "Study Piano",
+                "artist": "Pixabay",
+               "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+
+            },
+            {
+                "name": "Deep Concentration",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/03/09/audio_91c7d8e42a.mp3"
+            },
+            {
+                "name": "Silent Focus",
+                "artist": "Pixabay",
+                "url": "https://pixabay.com/music/future-bass-no-copyright-music-159125/"
+            },
+            {
+                "name": "Work Flow",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/09/18/audio_1e8c7b3a4d.mp3"
+            },
+            {
+                "name": "No Noise",
+                "artist": "Pixabay",
+                "url": "https://cdn.pixabay.com/audio/2022/11/30/audio_4b8d9c71a2.mp3"
+            }
+        ]
+    }
+]
